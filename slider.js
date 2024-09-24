@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <img src="https://daniboy9697.github.io/assets/img2.jpg" alt="Imagen 2">
             <img src="https://daniboy9697.github.io/assets/img3.jpg" alt="Imagen 3">
             <img src="https://daniboy9697.github.io/assets/img4.jpg" alt="Imagen 4">
+            <img src="https://daniboy9697.github.io/assets/img5.jpg" alt="Imagen 4">
           </div>
           <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
           <button class="next" onclick="changeSlide(1)">&#10095;</button>
