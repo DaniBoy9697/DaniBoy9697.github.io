@@ -5,10 +5,10 @@ document.addEventListener("DOMContentLoaded", function() {
       sliderContainer.innerHTML = `
         <div class="slider">
           <div class="slides">
-            <img src="https://yourdomain.com/img1.jpg" alt="Imagen 1">
-            <img src="https://yourdomain.com/img2.jpg" alt="Imagen 2">
-            <img src="https://yourdomain.com/img3.jpg" alt="Imagen 3">
-            <img src="https://yourdomain.com/img4.jpg" alt="Imagen 4">
+            <img src="https://daniboy9697.github.io/assets/img1.jpg" alt="Imagen 1">
+            <img src="https://daniboy9697.github.io/assets/img2.jpg" alt="Imagen 2">
+            <img src="https://daniboy9697.github.io/assets/img3.jpg" alt="Imagen 3">
+            <img src="https://daniboy9697.github.io/assets/img4.jpg" alt="Imagen 4">
           </div>
           <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
           <button class="next" onclick="changeSlide(1)">&#10095;</button>
